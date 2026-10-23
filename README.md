@@ -77,7 +77,7 @@ Importación de extractos por CSV, video de onboarding y un **diagnóstico mensu
 
 ## Contacto
 
-**[Tu nombre]** · [LinkedIn](https://www.linkedin.com/in/tu-perfil) · [email]
+**[Agustin Montoban Cabral]** · [LinkedIn](https://www.linkedin.com/in/agustinmontobancabral) · [montobanagustin@gmail.com]
 
 ---
 
