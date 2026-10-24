@@ -85,5 +85,8 @@ CSV statement import, an onboarding video and an **informational monthly review 
 **Agustin Montoban Cabral** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [montobanagustin@gmail.com]
 
 ---
+All rights reserved. This repository documents a case study; the application code is private.
+
+---
 
 _Sample data is fictional. No real financial data is published in this repository._
