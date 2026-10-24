@@ -9,7 +9,12 @@
 **Status:** in production, used daily for personal finances.
 **Code:** private. This repository contains the case study only.
 
-🎬 **Demo video (4 min):** _[paste link]_
+🎬 **Demo video (4 min):**
+
+
+https://github.com/user-attachments/assets/081a8802-fa57-483d-94e4-5e814653c890
+
+
 
 ![Inicio](inicio.png)
 ![Tarjetas](tarjetas.png)
