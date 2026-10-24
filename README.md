@@ -11,13 +11,14 @@
 
 🎬 **Video demo (4 min):** _[pegar enlace]_
 
-<!-- Capturas: guardalas en /assets y descomentá
-![Inicio](assets/inicio.png) ![Tarjetas](assets/tarjetas.png) ![Presupuestos](assets/presupuestos.png) ![Celular](assets/celular.png)
--->
+![Inicio](inicio.png)
+![Tarjetas](tarjetas.png)
+
+[Ver todas las capturas](docs/capturas.md)
 
 ## En números
 
-| | |
+| Indicador | Resultado |
 |---|---|
 | Casos de prueba de negocio | **34 de 35** cubiertos (el restante, parcial por decisión de alcance) |
 | Pruebas automáticas de base de datos | **460 aserciones** |
