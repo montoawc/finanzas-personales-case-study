@@ -9,7 +9,10 @@
 **Estado:** en producción, uso personal diario.
 **Código:** privado. Este repositorio es solo el caso de estudio.
 
-🎬 **Video demo (4 min):** _[pegar enlace]_
+🎬 **Video demo**
+
+https://github.com/user-attachments/assets/3a79ef50-0926-4e52-9e40-25016dda7f21
+
 
 ![Inicio](inicio.png)
 ![Tarjetas](tarjetas.png)
