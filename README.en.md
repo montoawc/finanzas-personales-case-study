@@ -11,13 +11,13 @@
 
 🎬 **Demo video (4 min):** _[paste link]_
 
-<!-- Screenshots: save them in /assets and uncomment
-![Home](assets/inicio.png) ![Cards](assets/tarjetas.png) ![Budgets](assets/presupuestos.png) ![Mobile](assets/celular.png)
--->
+![Inicio](inicio.png)
+![Tarjetas](tarjetas.png)
 
+[Ver todas las capturas](docs/capturas.md)
 ## By the numbers
 
-| | |
+| Indicator | Result |
 |---|---|
 | Business test cases | **34 of 35** covered (the remaining one is partial by scope decision) |
 | Automated database tests | **460 assertions** |
