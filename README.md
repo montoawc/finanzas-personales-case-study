@@ -81,7 +81,8 @@ Importación de extractos por CSV, video de onboarding y un **diagnóstico mensu
 
 ## Contacto
 
-**[Agustin Montoban Cabral]** · [LinkedIn](https://www.linkedin.com/in/agustinmontobancabral) · [montobanagustin@gmail.com]
+**Agustin Montoban Cabral** · [LinkedIn](https://www.linkedin.com/in/agustinmontobancabral) ·montobanagustin@gmail.com
+
 
 Todos los derechos reservados. Este repositorio documenta un caso de estudio; el código de la aplicación es privado.
 
