@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/3a79ef50-0926-4e52-9e40-25016dda7f21
 | Indicador | Resultado |
 |---|---|
 | Casos de prueba de negocio | **34 de 35** cubiertos (el restante, parcial por decisión de alcance) |
-| Pruebas automáticas de base de datos | **460 aserciones** |
+| Pruebas automáticas de base de datos | **567 aserciones** |
 | Rendimiento con 20.000 movimientos | listados **< 15 ms**, resumen y saldos **< 20 ms** |
 | Seguridad | RLS en todas las tablas · 0 vulnerabilidades en producción |
 | Backups | restauración **probada** y verificada |
