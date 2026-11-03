@@ -82,7 +82,7 @@ CSV statement import, an onboarding video and an **informational monthly review 
 
 ## Contact
 
-**Agustin Montoban Cabral** · [LinkedIn](https://www.linkedin.com/in/agustinmontobancabral) · (mailto:montobanagustin@gmail.com)
+**Agustin Montoban Cabral** · [LinkedIn](https://www.linkedin.com/in/agustinmontobancabral) · montobanagustin@gmail.com
 
 
 ---
