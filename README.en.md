@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/081a8802-fa57-483d-94e4-5e814653c890
 | Indicator | Result |
 |---|---|
 | Business test cases | **34 of 35** covered (the remaining one is partial by scope decision) |
-| Automated database tests | **460 assertions** |
+| Automated database tests | **567 assertions** |
 | Performance with 20,000 transactions | lists **< 15 ms**, summary and balances **< 20 ms** |
 | Security | RLS on every table · 0 vulnerabilities in production code |
 | Backups | restore **tested** and verified |
@@ -82,7 +82,8 @@ CSV statement import, an onboarding video and an **informational monthly review 
 
 ## Contact
 
-**Agustin Montoban Cabral** · [LinkedIn](https://www.linkedin.com/in/your-profile) · [montobanagustin@gmail.com]
+**Agustin Montoban Cabral** · [LinkedIn](https://www.linkedin.com/in/agustinmontobancabral) · (mailto:montobanagustin@gmail.com)
+
 
 ---
 All rights reserved. This repository documents a case study; the application code is private.
